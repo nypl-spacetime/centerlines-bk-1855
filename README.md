@@ -2,6 +2,6 @@
 
 _work in progress_
 
-See it move: http://spacetime.nypl.org/centerlines/
+See it move: http://spacetime.nypl.org/centerlines-bk-1855/
 
-All street centerlines in the Building Inspector dataset. More information at http://buildinginspector.nypl.org/
+All Brooklyn street centerlines in the Building Inspector dataset. More information at http://buildinginspector.nypl.org/
